@@ -19,11 +19,9 @@
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Global Stock Exchange Analysis](https://public.tableau.com/app/profile/shraddha.shinde6955/viz/GlobalStockExchangeAnalysis/FinalDashboard))
+- [Coffee Cup Analysis](https://public.tableau.com/app/profile/shraddha.shinde6955/viz/TheCoffeeCupDashboard_16593880024570/ExecutiveDashboard))
+
 
 ---
 
