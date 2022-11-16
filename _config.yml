@@ -1,5 +1,5 @@
 title: Shraddha Shinde # your name (or website title) here
-logo: "/images/pic2.jpg" # your photo (or logo) here
+logo: <img src="/images/pic2.jpg" width="200" height="200"></img> # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Data Analyst | Pursuing Graduate Certificate | Tableau| Python| R| Power BI| SQL
   <br><br>
